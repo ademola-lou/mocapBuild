@@ -1,0 +1,22 @@
+{
+  "name": "@0xalter/mocap4face",
+  "version": "0.3.0",
+  "main": "mocap4face.js",
+  "types": "./advanced.d.ts",
+  "dependencies": {
+    "@tensorflow/tfjs-core": "3.12.0",
+    "@tensorflow/tfjs-converter": "3.12.0",
+    "@tensorflow/tfjs-backend-webgl": "3.12.0",
+    "@tensorflow/tfjs-backend-cpu": "3.12.0"
+  },
+  "repository": "https://github.com/facemoji/mocap4face",
+  "license": "SEE LICENSE IN LICENSE.md",
+  "keywords": [
+    "machine-learning",
+    "face-tracking",
+    "facetracker",
+    "facial-landmarks",
+    "blendshapes",
+    "computer-vision"
+  ]
+}
